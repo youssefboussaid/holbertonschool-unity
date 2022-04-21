@@ -334,7 +334,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5755230066889490294, guid: 43360a72c3de9904fae8aaff2c4b3094, type: 3}
       propertyPath: m_Name
-      value: 100-textures
+      value: Textured Ball
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43360a72c3de9904fae8aaff2c4b3094, type: 3}
